@@ -1,0 +1,8 @@
+
+# ไม่เอาไฟล์พวกนี้
+Untitled*.ipynb
+11111.ipynb
+344-341 Example-ReadAndWriteFile.ipynb
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
